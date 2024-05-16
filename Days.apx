@@ -1,0 +1,5 @@
+public class Days{
+  public void ShowMsg(){
+    System.Debug('Happy Monday');
+  }
+}
